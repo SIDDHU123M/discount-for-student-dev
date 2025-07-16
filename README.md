@@ -85,16 +85,6 @@ The built files will be generated in the `dist/` folder.
 └── public/               # Static assets
 ```
 
-## 🚀 Deployment
-
-This project is automatically deployed to GitHub Pages using GitHub Actions. Every push to the `main` branch triggers a new deployment.
-
-### Manual Deployment Setup:
-
-1. Go to repository Settings → Pages
-2. Set Source to "GitHub Actions"
-3. The site will be available at: `https://siddhu123m.github.io/discount-for-student-dev/`
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
